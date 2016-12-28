@@ -30,7 +30,8 @@
             android:exported="true" />
 
         <activity android:name=".SettingActivity" />
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".RequestActivity"></activity>
     </application>
 
 </manifest>
