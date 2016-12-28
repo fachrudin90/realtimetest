@@ -29,8 +29,7 @@
             android:enabled="true"
             android:exported="true" />
 
-        <activity android:name=".SettingActivity" />
-        <activity android:name=".FriendsActivity"></activity>
+        <activity android:name=".SettingActivity"></activity>
     </application>
 
 </manifest>
