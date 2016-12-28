@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Real Time Test</string>
+    <string name="sendmsg">sendmsg</string>
+    <string name="getmsg">getmsg</string>
+    <string name="ping">ping</string>
+    <string name="message">message</string>
+    <string name="istyping">istypingmessage</string>
+
+
+</resources>
