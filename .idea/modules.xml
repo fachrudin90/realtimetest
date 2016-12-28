@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RealTimeTest.iml" filepath="$PROJECT_DIR$/RealTimeTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/RealTimeTestClone.iml" filepath="$PROJECT_DIR$/RealTimeTestClone.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
